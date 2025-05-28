@@ -19,7 +19,8 @@
 Проект размещён на Yandex Cloud Object Storage с публичным доступом.
 
 Сайт доступен по ссылке:
-https://landing-page-it.website.yandexcloud.net (https://landing-page-it.website.yandexcloud.net)
+
+https://landing-page-it.website.yandexcloud.net
 
 ---
 
